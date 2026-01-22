@@ -5,8 +5,8 @@
     return (
       <>
         <SEO
-          pageTitle="Shanmugha College of Allied Health Science – Official Website"
-          description="Welcome to Shanmugha College of Medical Science and Research – Discover our health science courses, campus life, and admission details in Tamil Nadu."
+          pageTitle="Shanmugha College of Medical Science and Research – Official Website"
+          description="Welcome to Shanmugha College of Medical Science and Research – Discover our medical science courses, campus life, and admission details in Tamil Nadu."
           url="https://shanmugha.edu.in/Medical_Science&Research_College"
           image="https://shanmugha.edu.in/images/cover-image.jpg"
         />

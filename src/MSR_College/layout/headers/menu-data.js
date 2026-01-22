@@ -1,5 +1,4 @@
 const menu_data = [
-  
   {
     title: "Home",
     link: "/",
@@ -43,17 +42,16 @@ const menu_data = [
         title: "Allied Health Science",
         icon: true,
         icon_name: "medical_information_black_48dp.svg",
-        link: "/",
+        link: "https://shanmugha-ahs.edu.in/",
         mega_submenu: [],
       },
-        {
+      {
         title: "Medical Science & research",
         icon: true,
         icon_name: "biotech_black_48dp.svg",
-        link: "https://shanmugha-msr.edu.in/",
+        link: "/",
         mega_submenu: [],
       },
-
     ],
   },
   {
@@ -105,13 +103,12 @@ const menu_data = [
   //   mega_menu: false,
   //   single_menu: true,
   // },
-    {
+  {
     title: "Contact Us",
     link: "/MSR/Contact",
     mega_menu: false,
     single_menu: true,
   },
-    
 ];
 
 export default menu_data;
