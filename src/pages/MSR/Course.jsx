@@ -11,5 +11,4 @@ const Course = () => {
         </Wrapper>
     )
 }
-
 export default Course;

@@ -271,18 +271,28 @@ const Footer = ({ style_2, dark_bg, home_4 }) => {
 
   <p>
     <Link href="/MSR/course/Cardio_care">
-      B.Sc. Cardiac Care Perfusion Technology
-    </Link>
+    B.Sc.Cardio Pulmonary Perfusion Care Technology    </Link>
   </p>
-
-  <p>
+    <p>
     <Link href="/MSR/course/Optometry">
       B.Sc. Optometry
     </Link>
   </p>
+  <p>
+    <Link href="/MSR/course/DHI">
+    Diploma in Health Inspector
+    </Link>
+  </p>
+    <p>
+    <Link href="/MSR/course/BPT">
+    Bachelor of Physiotherapy   </Link>
+  </p>
+    <p>
+    <Link href="/MSR/course/BOT">
+    Bachelor of Occupational Therapy
+    </Link>
+  </p>
 </div>
-
-
         </div>
       </div>
 
