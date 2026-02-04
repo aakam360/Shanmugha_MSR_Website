@@ -101,6 +101,24 @@ const menu_data = [
         icon_name: "biotech_black_48dp.svg",
         link: "/MSR/course/Cardio_care",
       },
+      {
+        title: "Diploma in Health Inspector",
+        icon: true,
+        icon_name: "health_and_safety_black_48dp.svg",
+        link: "/MSR/course/DHI",
+      },
+      {
+        title: "Bachelor of Physiotherapy (BPT)",
+        icon: true,
+        icon_name: "accessible_black_48dp.svg",
+        link: "/MSR/course/BPT",
+      },
+      {
+        title: "Bachelor of Occupational Therapy (BOT)",
+        icon: true,
+        icon_name: "visibility_black_48dp.svg",
+        link: "/MSR/course/BOT",
+      },
     ],
   },
   // {
