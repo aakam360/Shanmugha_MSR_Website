@@ -48,7 +48,7 @@ const menu_data = [
         title: "Allied Health Science",
         icon: true,
         icon_name: "medical_information_black_48dp.svg",
-        link: "https://shanmugha-ahs-website.onrender.com",
+        link: "https://alliedhealthsciences.shanmugha.edu.in",
         mega_submenu: [],
       },
       {
